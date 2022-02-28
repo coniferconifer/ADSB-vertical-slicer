@@ -12,7 +12,7 @@ at the specified longitude.
 
 High altitude air traffic in midnight is international cargo planes.
 Low altitude routes are to/from the nearby airports.
-In this example , around 5000 feet is a route to land on ITM(Osaka Airport) and around 10000feet is a route to KIX(Kansai Airport).
+In this example , around 5000 feet is a route to land on ITM(Osaka Airport) and around 15000 feet is a route to KIX(Kansai Airport).
 
 ## How to do
 Prepare CSV data as follows
